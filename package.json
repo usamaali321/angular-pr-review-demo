@@ -1,0 +1,14 @@
+{
+  "name": "angular-pr-review-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "dependencies": {
+    "@angular/core": "^20.0.0",
+    "@angular/common": "^20.0.0",
+    "@angular/platform-browser": "^20.0.0"
+  }
+}
