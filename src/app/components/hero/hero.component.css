@@ -3,6 +3,18 @@ section{
   padding:80px 20px;
 }
 
+h2{
+  font-size:18px;
+  font-weight:400;
+}
+
+p{
+  font-size:10px;
+}
+
 button{
-  margin-top:20px;
+  background:#FFD54F;
+  color:#FFFFFF;
+  border:none;
+  padding:14px 28px;
 }
