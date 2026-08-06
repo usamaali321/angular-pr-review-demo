@@ -1,6 +1,7 @@
-section{
-  display:flex;
-  gap:20px;
+.stats-grid{
+  display:grid;
+  grid-template-columns:500px 500px 500px;
+  gap:40px;
+  margin:60px;
   justify-content:center;
-  margin:40px;
 }
